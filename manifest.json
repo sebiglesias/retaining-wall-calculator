@@ -1,0 +1,15 @@
+{
+  "name": "Retaining Wall Block & Gravel Calculator \u2014 Height, Blocks & Backfill",
+  "short_name": "Wall Calc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080e1a",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
